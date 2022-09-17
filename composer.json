@@ -1,0 +1,16 @@
+{
+    "name": "musshal/my-money-manager",
+    "description": "An information system to manage my money",
+    "autoload": {
+        "psr-4": {
+            "Musshal\\MyMoneyManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Musthafa Faishal",
+            "email": "musthafafaishal@gmail.com"
+        }
+    ],
+    "require": {}
+}
